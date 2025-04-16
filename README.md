@@ -54,7 +54,3 @@ Bricks of various shapes fall from the top of the screen. Players must move the 
 3. Complete horizontal lines to score points.
 4. Check your final score when the game ends.
 
----
-
-## 📂 Project Structure
-
